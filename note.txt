@@ -1,1 +1,2 @@
-bfa8200505af970020423bbd04d6b77f
+API Key: bfa8200505af970020423bbd04d6b77f
+URL: http://api.weatherstack.com/
